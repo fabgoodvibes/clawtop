@@ -2,7 +2,7 @@
 
 A `btop`-style read-only terminal dashboard for local [OpenClaw](https://openclaw.ai) development.
 
-![Uploading Screenshot from 2026-02-28 19-39-25.png…]()
+<img width="946" height="930" alt="Screenshot from 2026-02-28 19-39-25" src="https://github.com/user-attachments/assets/6883b042-1ac3-41bd-b82c-542ec00146d9" />
 
 
 ## Installation
