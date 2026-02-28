@@ -24,6 +24,12 @@ python3 ~/.openclaw/workspace/skills/clawtop/scripts/tui.py
 
 On first run, `rich` and `psutil` are automatically installed into a local venv at `scripts/.venv/`. No `sudo` or system package changes required.
 
+```
+# Add clawtop to your Bash Aliases file to invoke with command ~$ clawtop
+echo "alias clawtop='python3 ~/.openclaw/workspace/skills/clawtop/scripts/tui.py'" >> ~/.bash_aliases
+source ~/.bash_aliases
+```
+
 ### Flags
 
 | Flag | Default | Description |
